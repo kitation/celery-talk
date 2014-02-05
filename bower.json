@@ -1,0 +1,7 @@
+{
+  "name": "task-management-with-celery-and-django",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}
